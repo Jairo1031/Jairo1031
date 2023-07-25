@@ -6,6 +6,8 @@ Additionally, I'm also exploring the latest trends and best practices in front-e
 
 I’m committed to continuous learning and growth, and I believe that staying up-to-date with cutting-edge technologies is crucial in today's fast-paced tech landscape. By combining my skills in API Testing, Node.js, React.js, BEM, CSS, HTML, and JavaScript, I aim to create innovative software solutions that deliver seamless user experiences and address complex challenges in the ever-evolving world of web development.
 
+
+
 <a href="https://app.daily.dev/jayrodriguez"><img src="https://api.daily.dev/devcards/7003b4b967d049bbac0ef60688e9b811.png?r=mb4" width="400" alt="Jay Rodriguez's Dev Card"/></a>
 
 <!--
