@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jay!
 
-🌱 I’m currently learning new skills to further excel in my field of expertise. With a focus on software development, I am honing my skills in API Testing, Node.js, React.js, and implementing design patterns like Block Element Modifier (BEM) to create scalable and maintainable web applications.
+🌱 I’m currently learning new skills to further excel in my field. With a focus on software development, I am honing my skills in API Testing, Node.js, React.js, and implementing design patterns like Block Element Modifier (BEM) to create scalable and maintainable web applications.
 
 Additionally, I'm also exploring the latest trends and best practices in front-end development, including Cascading Style Sheets (CSS) and HTML. As a tech enthusiast with a strong foundation in JavaScript, I strive to enhance my abilities to craft engaging and user-friendly web interfaces.
 
