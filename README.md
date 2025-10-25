@@ -189,7 +189,7 @@ This project is available under the MIT License. Feel free to use, modify, and d
 
 **Author**: Jairo Rodriguez  
 **GitHub**: [@JayR1031](https://github.com/JayR1031)  
-**Repository**: [@Jairo1031](https://github.com/JayR1031/graphical-models-intent-classification)
+**Repository**: [@JayR1031](https://github.com/JayR1031/graphical-models-intent-classification)
 
 For questions, suggestions, or collaboration opportunities, please open an issue or reach out via GitHub.
 
